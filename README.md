@@ -1,7 +1,7 @@
 # advertisements-abuse-report
 Websites that use Exoclick monetization service use the following URLs and scripts on their websites, which means that seeing this is a way of verifying that a website uses Exoclick service.
 
-## get item
+## Exoclick
 Websites that use Exoclick monetization service use the following URLs and scripts on their websites, which means that seeing this is a way of verifying that a website uses Exoclick service.
 
 ```bash
