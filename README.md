@@ -5,11 +5,23 @@ Websites that use Exoclick monetization service use the following URLs and scrip
 Websites that use Exoclick monetization service use the following URLs and scripts on their websites, which means that seeing this is a way of verifying that a website uses Exoclick service.
 
 ```bash
-  Domains list:
+1. realsrv.com
+2. exdynsrv.com
+3. orbsrv.com
+4. optnx.com
+5. exv6.com
+6. exosrv.com
+```
+Subdomains:
+```bash
 1. a.realsrv.com/ads.js
 2. syndication.realsrv.com
 3. syndication.exdynsrv.com
 4. a.exdynsrv.com
+5. ads.exdynsrv.com
+6. main.exdynsrv.com
+7. s.orbsrv.com
+8. ads.exoclick.com
 ```
 One way to check if these domains are active on an illegal porn website is by checking the URLs that appear when you click on an ad or unannounced pop-up window. also checking incoming browser connections.
 
@@ -179,6 +191,8 @@ Adscore is a website advertising company operating in United Arab Emirates, Duba
 22. zheevmmvlwg.com
 23. pwbmdalngizhz.com
 24. cilsammwcblcv.com
+25. mjjjhfgqqpt.com
+26. vrfupfyu.com
 ```
 This ad company has many domains and subdomains related to their ads, these are 14 collected domains that are owned by this ad company and are used by Adscore to distribute ads on the websites that use their ad services
 
@@ -406,6 +420,7 @@ Clickadu is an advertising company based in the Czech Republic that offers adver
 166. asewlfjqwlflkew.com
 167. cresfpho2ntesepapillo3.com
 168. ablhmeaklp.com
+169. monkeysloveyou.com
 ```
 these 18 domains belong to the advertising company Clickadu. these domains are used to serve ads and popads on websites. If any of these domains coincide with the website, it means that this website uses the Clickadu service.
 
@@ -434,8 +449,60 @@ Adsupply is an advertising company originally from the United States that provid
 12. rallydisprove.com
 13. regioncolonel.com
 14. riendshipmale.com
+15. jeeryounger.com
+16. miscalculatesuccessiverelish.com
+17. fademployedtransactions.com
+18. ascertainintend.com.com
+19. recoiltravellingbreach.com
 ```
 ![logo](https://i.postimg.cc/tgcDMPTk/image.png)
 * contact email: info@adsupply.com
 * Twitter: [twitter account](https://twitter.com/adsupplyinc)
 * Terms: [Terms and conditions](https://www.adsupply.com/advertiser-publisher-terms/)
+
+# Rivertraffic
+Rivertraffic is an Estonian-based advertising company that provides ad-based advertising service and ad monetization to sites
+```bash
+1. rtrhit.com
+2. riverpush.com
+3. rivertraffic.com
+4. riverhit.com
+6. trafficriver.com
+7. rtphit.com
+```
+* contact email: support@rivertraffic.com
+* Terms: [Terms and conditions](https://www.rivertraffic.com/page/terms)
+
+# Clickdaly
+Clickdaly is an England-based advertising company that provides ad-based advertising service and ad monetization to websites
+```bash
+1. clickdaly.com
+2. dalyai.com
+3. media.clickdaly.com
+4. media.clickdaly.com
+```
+
+* contact email: contact@clickdaly.com and info@clickdaily.com
+* Terms: [Terms and conditions](https://clickdaly.com/tac)
+* support contact: support@clickdaly.com
+
+# SMAC-AD Company
+SMAC-AD is a Japan-based advertising company that provides advertising services and earn money from ads to internet websites
+```bash
+1. js.smac-ad.com
+```
+
+* contact form [contact](https://smac-ad.com/contact)
+
+# Adspyglass
+Adspyglass is a company based in the united states based on advertising and offering services for  websites to ads
+```bash
+1. trafokit.com
+2. asgpopunder.com
+3. adspyglass.com
+4. adspyglass.net
+5. feed-check.com
+6. apioni.com
+```
+* contact email: support@adspyglass.com
+* Terms: [Terms and conditions](https://www.adspyglass.com/terms-and-conditions)
