@@ -178,6 +178,7 @@ Adscore is a website advertising company operating in United Arab Emirates, Duba
 21. impactserving.com
 22. zheevmmvlwg.com
 23. pwbmdalngizhz.com
+24. cilsammwcblcv.com
 ```
 This ad company has many domains and subdomains related to their ads, these are 14 collected domains that are owned by this ad company and are used by Adscore to distribute ads on the websites that use their ad services
 
