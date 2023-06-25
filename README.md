@@ -113,7 +113,7 @@ it seems that the company adnium inc only uses one domain for its ads and it is 
 * Terms: [Terms and conditions](https://adnium.com/aup)
 * Company Name: Adnium Inc
 
-# Interwebvertising Company
+# EroAdvertising Company
 
 EroAdvertising is a Portugal-based advertising company, the company legally calls itself Interwebvertising B.V. and provides advertisements to website. Here you will find information about domains and terms and conditions
 
