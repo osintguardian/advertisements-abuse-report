@@ -121,7 +121,8 @@ EroAdvertising is a Portugal-based advertising company, the company legally call
 1. adspaces.ero-advertising.com
 2. adspaces.ero-advertising.com/adspace/547740.js
 3. go.ero-advertising.com
-4. ads.eabids.com
+4. eroadvertising.com
+5. eabids.com
 ```
 noting that the domains owned by EroAdvertising all have the word "advertising" just by looking for this word in the network section of devs tools you can find the scripts.
 
