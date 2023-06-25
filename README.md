@@ -591,3 +591,12 @@ Adspyglass is a company based in the united states based on advertising and offe
 5. traffic-factory.com
 6. trafficfactory.net
 ```
+# Clickadilla
+```bash
+1. clickadila.com
+2. clickadilla.com
+3. clickmyads.com
+4. smclouisvlle.org
+5. heonespy.com
+6. js.wpadmngr.com
+```
