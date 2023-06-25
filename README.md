@@ -1,7 +1,6 @@
-# advertisements-abuse-report
 Websites that use Exoclick monetization service use the following URLs and scripts on their websites, which means that seeing this is a way of verifying that a website uses Exoclick service.
 
-## Exoclick
+## get item
 Websites that use Exoclick monetization service use the following URLs and scripts on their websites, which means that seeing this is a way of verifying that a website uses Exoclick service.
 
 ```bash
@@ -101,6 +100,8 @@ Adnium Inc is an advertising company from Toronto, Canada that appears on many s
 
 ```bash
 1. a.adnium.com
+2. adniom.com
+3. adniem.com
 ```
 this is the domain and subdomain that this company uses to serve ads on websites that use their ad services.
 
@@ -193,6 +194,7 @@ Adscore is a website advertising company operating in United Arab Emirates, Duba
 24. cilsammwcblcv.com
 25. mjjjhfgqqpt.com
 26. vrfupfyu.com
+27. svtlgjmqyzmwz.com
 ```
 This ad company has many domains and subdomains related to their ads, these are 14 collected domains that are owned by this ad company and are used by Adscore to distribute ads on the websites that use their ad services
 
@@ -421,6 +423,19 @@ Clickadu is an advertising company based in the Czech Republic that offers adver
 167. cresfpho2ntesepapillo3.com
 168. ablhmeaklp.com
 169. monkeysloveyou.com
+170. oghqvffmnt.com
+171. iifvcfwiqi.com
+172. owlunimmvn.com
+173. krjxhvyyzp.com
+174. wnjjhksaue.com
+175. xilrajmzyvar.com
+176. rxeosevsso.com
+177. go6shde9nj2itle.com
+178. wuzbhjpvsf.com
+179. usjbwvtqwv.com
+180. tibacta.com
+181. iogjhbnoypg.com
+182. hwpnocpctu.com
 ```
 these 18 domains belong to the advertising company Clickadu. these domains are used to serve ads and popads on websites. If any of these domains coincide with the website, it means that this website uses the Clickadu service.
 
@@ -454,6 +469,19 @@ Adsupply is an advertising company originally from the United States that provid
 17. fademployedtransactions.com
 18. ascertainintend.com.com
 19. recoiltravellingbreach.com
+20. sadsecs.com
+21. tracksfreezingdomestic.com
+22. exploredefinitely.com
+23. anguishworst.com
+24. highcpmrevenuenetwork.com
+25. highperformancedisplayformat.com
+26. effectivecreativeformat.com
+27. profitablegatetocontent.com
+28. danesuffocate.com
+29. ginchoirblessed.com
+30. deeperregardingcontend.com
+31. queersodadults.com
+32. dateddeed.com
 ```
 ![logo](https://i.postimg.cc/tgcDMPTk/image.png)
 * contact email: info@adsupply.com
@@ -503,6 +531,61 @@ Adspyglass is a company based in the united states based on advertising and offe
 4. adspyglass.net
 5. feed-check.com
 6. apioni.com
+7. hgfdtujlknhkghf.site
+8. a.jhfhdkhkh.site
 ```
 * contact email: support@adspyglass.com
 * Terms: [Terms and conditions](https://www.adspyglass.com/terms-and-conditions)
+
+# A-ads
+```bash
+1. acceptable.a-ads.com
+2. ad.a-ads.com
+3. aads.network
+4. aads.com
+```
+# TwinRed
+```bash
+1. doublepimp.com
+2. dpinteractive.com
+3. twinrdsrv.com
+```
+# 33across
+```bash
+1. 33across.com
+2. tynt.com
+3. socialdna.com
+4. lineate-33x.net
+```
+
+# Bullionyield
+```bash
+1. bullionyield.com
+2. bullion.media
+3. bullionmedia.com
+4. bulrev.com
+```
+# Adxserve
+```bash
+1. adxserve.com
+2. adsessionserv.com
+3. adsession.exacdn.com
+```
+# Adsexo
+```bash
+1. adsexo.com
+```
+# Sovrn
+```bash
+1. sovrn.com
+2. cdn.viglink.com
+```
+# Trafficfactory
+```bash
+1. trafficfactory.biz
+2. trafficfactory.com
+3. trafficfactory.org.cn
+4. trafficfactory.cn
+5. traffic-factory.com
+6. trafficfactory.net
+```
