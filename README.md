@@ -625,3 +625,9 @@ subdomains:
 ```bash
 1. clksite.com
 ```
+# Adforcast
+```bash
+1. adforcast.com
+2. mbashgah.com
+3. adforecast.com
+```
