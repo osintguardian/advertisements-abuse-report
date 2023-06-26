@@ -84,7 +84,6 @@ Domains lists:
 1. poweredby.jads.co
 2. js.juicyads.com
 3. ads.juicyads.com
-4. d.pssy.xyz
 ```
 ![logo](https://i.postimg.cc/XXSMJ2h0/image.png)
 
@@ -601,4 +600,13 @@ Adspyglass is a company based in the united states based on advertising and offe
 4. smclouisvlle.org
 5. heonespy.com
 6. js.wpadmngr.com
+```
+# Plugrush
+```bash
+1. plugrush.com
+2. pssy.xyz
+3. plugrush.club
+4. plugrush.services
+5. plugrush.life
+6. d.plugrush.com
 ```
