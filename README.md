@@ -438,6 +438,7 @@ Clickadu is an advertising company based in the Czech Republic that offers adver
 181. iogjhbnoypg.com
 182. hwpnocpctu.com
 183. pkudawbkcl.com
+184. aiqidwcfrm.com
 ```
 these 18 domains belong to the advertising company Clickadu. these domains are used to serve ads and popads on websites. If any of these domains coincide with the website, it means that this website uses the Clickadu service.
 
