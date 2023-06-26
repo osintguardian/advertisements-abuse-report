@@ -142,6 +142,7 @@ this company also serves ads to othershady websites with possible malware and il
 3. media.trafficjunky.net
 4. contentabc.com
 5. ads2.contentabc.com
+6. adtng.com
 ```
 by searching for the word trafficjunky in the network section you can easily find incoming connections related to ad domains and scripts. for the collection of information will be easy.
 
