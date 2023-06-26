@@ -84,6 +84,7 @@ Domains lists:
 1. poweredby.jads.co
 2. js.juicyads.com
 3. ads.juicyads.com
+4. clickpapa.com
 ```
 ![logo](https://i.postimg.cc/XXSMJ2h0/image.png)
 
@@ -214,6 +215,8 @@ Traffichaus is an advertising company that operates in the United States, Califo
 ```bash
 1. cdn1.traffichaus.com
 2. syndication.traffichaus.com
+3. trafficreps.com
+4. traffichouse.com
 ```
 using the devs tools of chromium browsers, it can be seen how 3 Javascript and PHP files related to the subdomains of the Traffichaus company were found.
 
@@ -228,8 +231,9 @@ PopCash is a Romanian based advertising company that offers advertising services
 
 ```bash
 1. popcash.net
-2. ps.popcash.net
-3. cdn2.popcash.net
+2. poprtb.pro
+3. popca.sh
+4. pop.cash
 ```
 ![logo](https://i.postimg.cc/y8JWVr2N/image.png)
 
