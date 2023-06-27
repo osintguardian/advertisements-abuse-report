@@ -1,4 +1,8 @@
-Websites that use Exoclick monetization service use the following URLs and scripts on their websites, which means that seeing this is a way of verifying that a website uses Exoclick service.
+## Fight against child sexual abuse material (CSAM):
+child pornography is a real problem and needs to be fixed, many child abuse related website owners use ad companies to monetize illegal content related to Child Sexual Abuse Material (CSAM)
+One way to take down an illegal website is to notify the ad provider about illegal content and CSAM
+
+but almost no website has the ad provider public, due to ignorance of how to detect and track the ad provider of a website these criminals make money with the suffering of children. This Github article is a tutorial and information on how to detect the ad provider of any website.
 
 ## get item
 Websites that use Exoclick monetization service use the following URLs and scripts on their websites, which means that seeing this is a way of verifying that a website uses Exoclick service.
