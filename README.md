@@ -722,3 +722,25 @@ subdomains:
 38. tubemogul.info
 39. adobe.com
 ```
+# AdsWizz
+```bash
+1. adswizz.com
+2. audiogo.com
+```
+# Adtelligent
+```bash
+1. adtelligent.com
+2. verta.media
+3. headerbidding.company
+4. headerbidding.solutions
+5. ghb-adtelligent-com.geodns.me
+6. vertamedia.com
+```
+# AdTheorent
+```bash
+1. adtheorent.com
+2. adentifi.com
+3. adtheorem.com
+4. adtheorent.ca
+5. ad-theorent.com
+```
