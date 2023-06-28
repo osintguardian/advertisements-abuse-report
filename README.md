@@ -744,3 +744,36 @@ subdomains:
 4. adtheorent.ca
 5. ad-theorent.com
 ```
+# amobee
+```bash
+1. amgdgt.com
+2. amobee.com
+3. tidaltv.com
+4. turn.com
+5. videologygroup.com
+6. scottferber.org
+```
+# aniview
+```bash
+1. aniview.com
+2. avplayer.com
+```
+# Oracle Advertising
+```bash
+1. eloquaeditors.com
+2. eloquapreview.com
+3. addthiscdn.com
+4. addthisedge.com
+5. bluekai.com
+6. eloqua.com
+7. odc-addthis-prod-01.oracle.com
+8. odc-pixel-prod-01.oracle.com
+9. oracleinfinity.io
+10. en25.com
+11. responsys.net
+```
+# Aqfer
+```bash
+1. aqfer.com
+2. aqfer.net
+```
