@@ -778,3 +778,29 @@ subdomains:
 1. aqfer.com
 2. aqfer.net
 ```
+# Meta ads / Facebook ads
+```bash
+1. atdmt.com
+2. atlassolutions.com
+3. atdmt.com.nsatc.net
+```
+# Samsung Ads
+```bash
+1. adgear.com
+2. adgrx.com
+3. samsungacr.com
+4. samsungadhub.com
+5. samsungads.com
+6. samsungtifa.com
+```
+# Smart AdServer
+```bash
+1. sascdn.com
+2. smartadserver.com
+```
+# Viantinc ads
+```bash
+1. adelphic.com
+2. ipredictive.com
+3. viantinc.com
+```
