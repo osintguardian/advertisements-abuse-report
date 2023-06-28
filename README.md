@@ -771,6 +771,7 @@ subdomains:
 9. oracleinfinity.io
 10. en25.com
 11. responsys.net
+12. addthis.com
 ```
 # Aqfer
 ```bash
