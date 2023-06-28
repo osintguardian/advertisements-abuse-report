@@ -645,3 +645,80 @@ subdomains:
 5. journeystud.io
 6. illum.in
 ```
+# AAX.MEDIA (Acceptable Ads Exchange)
+```bash
+1. aaxads.com
+2. aaxdetect.com
+3. aax.media
+4. assistpub.com
+```
+# AdColony / digitalturbine
+```bash
+1. adcolony.com
+2. adcolony.xyz
+3. adtilt.com
+4. digitalturbine.com
+5. balao.de
+6. contentforcredit.com
+```
+# Adform
+```bash
+1. adform.com
+2. adform.net
+3. adformdsp.net
+4. seadform.net
+5. adform.eu
+6. meltdsp.com
+7. adform.dk
+```
+# ADITION
+```bash
+1. active-agent.com
+2. adition.com
+3. active-agent.de
+4. adition.at
+5. adition.org
+6. activeagent.it
+```
+# Adobe Ads
+```bash
+1. adobecce.com
+2. adobeconnect.com
+3. adobeaemcloud.com
+4. adobe-campaign.com
+5. 2o7.net
+6. adobedc.net
+7. adobedtm.com
+8. adobemsbasic.com
+9. adobeprimetime.com
+10. adobess.com
+11. adobetag.com
+12. business.adobe.com
+13. campaign.adobe.com
+14. cvs.adobe.com
+15. demdex.com
+16. demdex.net
+17. everestads.net
+18. everesttech.net
+19. marketo.com
+20. marketo.net
+21. mktoapi.com
+22. mktoapp.com
+23. mktoapps.com
+24. mktoedge.com
+25. mktomail.com
+26. mktomma.com
+27. mktoresp.com
+28. mktossl.com
+29. mktoutil.com
+30. mktoweb.com
+31. omniture.com
+32. omtrdc.net
+33. scene7.com
+34. ss-omtrdc.net
+35. sstats.adobe.com
+36. tmogul.com
+37. tubemogul.com
+38. tubemogul.info
+39. adobe.com
+```
