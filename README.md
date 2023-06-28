@@ -636,3 +636,12 @@ subdomains:
 2. mbashgah.com
 3. adforecast.com
 ```
+# Acuityads / illumin
+```bash
+1. illumin.com
+2. acuityads.com
+3. 140proof.com
+4. acuityplatform.com
+5. journeystud.io
+6. illum.in
+```
