@@ -646,6 +646,11 @@ Adspyglass is a company based in the united states based on advertising and offe
 5. heonespy.com
 6. js.wpadmngr.com
 ```
+* contact email: support@clickadilla.com
+* form: [contact form](https://clickadilla.com/contacts)
+* Telegram: @clickadilla_network.com
+* Terms: [Terms of service](https://clickadilla.com/terms-and-conditions)
+
 # Plugrush
 ```bash
 1. plugrush.com
@@ -659,16 +664,17 @@ subdomains:
 ```bash
 1. admin.plugrush.com
 ```
-# Clksite
-```bash
-1. clksite.com
-```
+* contact email: support@plugrush.com
+* Terms: [Terms of service](https://www.plugrush.com/support/terms-of-service/)
+
 # Adforcast
 ```bash
 1. adforcast.com
 2. mbashgah.com
 3. adforecast.com
 ```
+* Contact: [contact form](https://adforcast.com/contact-us)
+
 # Acuityads / illumin
 ```bash
 1. illumin.com
@@ -678,6 +684,9 @@ subdomains:
 5. journeystud.io
 6. illum.in
 ```
+* form: [contact form](https://illumin.com/contact/)
+* Terms: [Terms of service](https://illumin.com/legal/terms-and-conditions/)
+
 # AAX.MEDIA (Acceptable Ads Exchange)
 ```bash
 1. aaxads.com
@@ -685,6 +694,9 @@ subdomains:
 3. aax.media
 4. assistpub.com
 ```
+* form: [contact form](https://www.aax.media/contact-us/)
+* Terms: [Terms of service](https://www.aax.media/terms-of-service/)
+
 # AdColony / digitalturbine
 ```bash
 1. adcolony.com
@@ -694,6 +706,8 @@ subdomains:
 5. balao.de
 6. contentforcredit.com
 ```
+* form: [contact form](https://www.digitalturbine.com/#contact)
+
 # Adform
 ```bash
 1. adform.com
@@ -704,6 +718,9 @@ subdomains:
 6. meltdsp.com
 7. adform.dk
 ```
+* contact email: dpo@adform.com
+* form: [contact form](https://site.adform.com/contact-us/)
+
 # ADITION
 ```bash
 1. active-agent.com
@@ -713,6 +730,7 @@ subdomains:
 5. adition.org
 6. activeagent.it
 ```
+
 # Adobe Ads
 ```bash
 1. adobecce.com
