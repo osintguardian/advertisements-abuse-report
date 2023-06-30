@@ -561,12 +561,20 @@ Adspyglass is a company based in the united states based on advertising and offe
 3. aads.network
 4. aads.com
 ```
+* contact email: support@a-ads.com
+* contact form: [Contact form](https://a-ads.com/contact_us)
+* Terms: [Terms of service](https://a-ads.com/terms_of_service)
+
+
 # TwinRed
 ```bash
 1. doublepimp.com
 2. dpinteractive.com
 3. twinrdsrv.com
 ```
+* contact email: contact@twinred.com and support@twinred.com
+* Terms: [Terms and conditions](https://www.twinred.com/terms-conditions/)
+
 # 33across
 ```bash
 1. 33across.com
@@ -574,6 +582,8 @@ Adspyglass is a company based in the united states based on advertising and offe
 3. socialdna.com
 4. lineate-33x.net
 ```
+* contact email: hello@33across.com
+* Contact form: [Form](https://www.33across.com/contact/)
 
 # Bullionyield
 ```bash
@@ -582,21 +592,38 @@ Adspyglass is a company based in the united states based on advertising and offe
 3. bullionmedia.com
 4. bulrev.com
 ```
+* contact form: [Contact form](https://admin.bullionyield.com/guest/contact_us)
+* Terms: [Terms of conditions](https://admin.bullionyield.com/index.php/guest/terms)
+
 # Adxserve
 ```bash
 1. adxserve.com
 2. adsessionserv.com
 3. adsession.exacdn.com
 ```
+* contact email: contact@ad-invent.com
+* contact form: [Contact form](https://www.adxserve.com/contact-us.html)
+* skype: adinvent1
+
 # Adsexo
 ```bash
 1. adsexo.com
 ```
+* contact email: support@mgid.com
+* contact form: [Contact form](https://www.mgid.com/contacts)
+* Terms: [Terms of conditions](https://www.mgid.com/services/publishers-tos)
+
 # Sovrn
 ```bash
 1. sovrn.com
 2. cdn.viglink.com
+3. sovrn.co
+4. viglink.com
+5. sovrnservices.com
 ```
+* contact email: legal@sovrn.com
+* Terms: [Terms of service](https://www.sovrn.com/legal/tou/)
+
 # Trafficfactory
 ```bash
 1. trafficfactory.biz
@@ -606,6 +633,10 @@ Adspyglass is a company based in the united states based on advertising and offe
 5. traffic-factory.com
 6. trafficfactory.net
 ```
+* contact email: support@trafficfactory.com
+* contact emails: [contact employees](https://trafficfactory.com/contact-us/index.html)
+* Terms: [Terms of service](https://trafficfactory.com/terms-of-service/index.html)
+
 # Clickadilla
 ```bash
 1. clickadila.com
