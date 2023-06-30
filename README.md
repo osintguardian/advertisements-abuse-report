@@ -5,7 +5,7 @@ One way to take down an illegal website is to notify the ad provider about illeg
 
 but almost no website has the ad provider public, due to ignorance of how to detect and track the ad provider of a website these criminals make money with the suffering of children. This Github article is a tutorial and information on how to detect the ad provider of any website.
 
-## get item
+## Exoclick
 Websites that use Exoclick monetization service use the following URLs and scripts on their websites, which means that seeing this is a way of verifying that a website uses Exoclick service.
 
 ```bash
