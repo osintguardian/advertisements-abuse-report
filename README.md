@@ -730,6 +730,8 @@ subdomains:
 5. adition.org
 6. activeagent.it
 ```
+* form: [contact form](https://www.adition.com/en/contact/)
+* Terms: [Terms of service](https://www.adition.com/wp-content/uploads/Adition_Appendix_General_Terms_and_Conditions_final.pdf)
 
 # Adobe Ads
 ```bash
@@ -773,11 +775,18 @@ subdomains:
 38. tubemogul.info
 39. adobe.com
 ```
+* contact: [contact](https://www.adobe.com/about-adobe/contact.html)
+* Terms: [Terms of service](https://www.adobe.com/legal/terms.html)
+
 # AdsWizz
 ```bash
 1. adswizz.com
 2. audiogo.com
 ```
+* form: [contact form](https://www.adswizz.com/contact-us/)
+* email: info@www.adswizz.com
+* Terms: [Terms of service](https://www.adswizz.com/wp-content/uploads/2022/12/AdsWizz-Terms-Of-Use-2022.pdf)
+
 # Adtelligent
 ```bash
 1. adtelligent.com
@@ -787,6 +796,9 @@ subdomains:
 5. ghb-adtelligent-com.geodns.me
 6. vertamedia.com
 ```
+* form: [contact form](https://adtelligent.com/contact/)
+* Terms: [Terms of service](https://adtelligent.com/terms-and-conditions/)
+
 # AdTheorent
 ```bash
 1. adtheorent.com
@@ -795,6 +807,8 @@ subdomains:
 4. adtheorent.ca
 5. ad-theorent.com
 ```
+* form: [contact form](https://adtheorent.com/contact)
+
 # amobee
 ```bash
 1. amgdgt.com
@@ -804,11 +818,18 @@ subdomains:
 5. videologygroup.com
 6. scottferber.org
 ```
+* form: [contact form](https://www.amobee.com/company/contact-us/)
+* Terms: [Terms of service](https://www.amobee.com/trust/advertiser-guidelines/)
+
 # aniview
 ```bash
 1. aniview.com
 2. avplayer.com
 ```
+* form: [contact form](https://aniview.com/contact/)
+* email: info@aniview.com
+* Terms: [Terms of service](https://aniview.com/terms-and-conditions/)
+
 # Oracle Advertising
 ```bash
 1. eloquaeditors.com
@@ -824,17 +845,27 @@ subdomains:
 11. responsys.net
 12. addthis.com
 ```
+* form: [contact form](https://www.oracle.com/corporate/contact/)
+* Terms: [Terms of service](https://www.oracle.com/legal/terms.html)
+
 # Aqfer
 ```bash
 1. aqfer.com
 2. aqfer.net
 ```
+* form: [contact form](https://aqfer.com/contact/)
+* email: info@aqfer.com
+* Terms: [Terms of service](https://aqfer.com/terms-of-service/)
+
 # Meta ads / Facebook ads
 ```bash
 1. atdmt.com
 2. atlassolutions.com
 3. atdmt.com.nsatc.net
 ```
+* email: advertise@fb.com
+* Terms: [Terms of service](https://www.facebook.com/business/direct_terms_ads_en.php)
+
 # Samsung Ads
 ```bash
 1. adgear.com
@@ -844,10 +875,8 @@ subdomains:
 5. samsungads.com
 6. samsungtifa.com
 ```
-# Smart AdServer
-```bash
-1. sascdn.com
-2. smartadserver.com
+* form: [contact form](https://www.samsung.com/us/business/samsungads/contact-us/)
+
 ```
 # Viantinc ads
 ```bash
@@ -855,3 +884,6 @@ subdomains:
 2. ipredictive.com
 3. viantinc.com
 ```
+
+* form: [contact form](https://www.viantinc.com/contact/)
+* email: contact@smartadserver.com
