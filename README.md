@@ -1,4 +1,3 @@
-## against child sexual abuse material (CSAM):
 child pornography is a real problem and needs to be fixed, many child abuse related website owners use ad companies to monetize illegal content related to Child Sexual Abuse Material (CSAM)
 One way to take down an illegal website is to notify the ad provider about illegal content and CSAM
 
