@@ -1,9 +1,13 @@
-## Fight against child sexual abuse material (CSAM):
+## against child sexual abuse material (CSAM):
 child pornography is a real problem and needs to be fixed, many child abuse related website owners use ad companies to monetize illegal content related to Child Sexual Abuse Material (CSAM)
-
 One way to take down an illegal website is to notify the ad provider about illegal content and CSAM
 
 but almost no website has the ad provider public, due to ignorance of how to detect and track the ad provider of a website these criminals make money with the suffering of children. This Github article is a tutorial and information on how to detect the ad provider of any website.
+
+# illegal or suspicious content
+This repository will also be useful to search for domains related to adverts providers, this will be useful to make a report about a suspicious website related to malware, revenge porn, child sexualization and child sexual abuse material (CSAM)
+
+
 
 [how to track domains related to ad providers on any website](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/tutorial.md)
 
