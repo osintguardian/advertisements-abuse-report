@@ -11,8 +11,7 @@ The purpose of this repository is to spread the domains of ad providers and make
 [how to track domains related to ad providers on any website](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/tutorial.md)
 
 # Ad Provider Domains
-After watching the tutorial, if you want to recognize which ad provider owns the domain you have, just search this page for the domain.
-
+After watching the tutorial, if you want to recognize which ad provider owns the domain you have, just search this page for the domain. in the browser just by selecting CTRL + F you can search for  domains in this repository
 
 ## Exoclick
 Websites that use Exoclick monetization service use the following URLs and scripts on their websites, which means that seeing this is a way of verifying that a website uses Exoclick service.
