@@ -6,11 +6,8 @@ but almost no website has the ad provider public, due to ignorance of how to det
 
 This repository will also be useful to search for domains related to adverts providers, this will be useful to make a report about a suspicious website related to malware, revenge porn, child sexualization and child sexual abuse material (CSAM)
 
-The purpose of this repository is to spread the domains of ad providers and make them public, to recognize the ad companies and warn them about illegal activities of their clients, this to attack the financing of organized crime related to pedos.
-
 [how to track domains related to ad providers on any website](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/tutorial.md)
 
-# Ad Provider Domains
 After watching the tutorial, if you want to recognize which ad provider owns the domain you have, just search this page for the domain. in the browser just by selecting CTRL + F you can search for  domains.
 
 ## Exoclick
