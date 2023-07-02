@@ -4,13 +4,14 @@ One way to take down an illegal website is to notify the ad provider about illeg
 
 but almost no website has the ad provider public, due to ignorance of how to detect and track the ad provider of a website these criminals make money with the suffering of children. This Github article is a tutorial and information on how to detect the ad provider of any website.
 
-# illegal or suspicious content
 This repository will also be useful to search for domains related to adverts providers, this will be useful to make a report about a suspicious website related to malware, revenge porn, child sexualization and child sexual abuse material (CSAM)
 
-The purpose of this repository is to spread the domains of ad providers and make them public, to recognize the ad companies and warn them about illegal activities of their clients, this to attack the financing of organized crime related to child pornography.
+The purpose of this repository is to spread the domains of ad providers and make them public, to recognize the ad companies and warn them about illegal activities of their clients, this to attack the financing of organized crime related to pedos.
 
 [how to track domains related to ad providers on any website](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/tutorial.md)
 
+# Ad Provider Domains
+After watching the tutorial, if you want to recognize which ad provider owns the domain you have, just search this page for the domain.
 
 
 ## Exoclick
