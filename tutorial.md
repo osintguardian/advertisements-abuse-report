@@ -74,9 +74,6 @@ Tracker Radar Wiki is a tool created by the people behind DuckDuckGo to collect 
 ![Logo](https://i.postimg.cc/VvJD2VQH/image.png)
 
 The Tracker Radar Wiki tool can display information about advertisers, analytics domains, and information about domain owners.
-
-![Logo](https://i.postimg.cc/R0XcLL6s/image.png)
-
 Tracker Radar Wiki information on exoclick is very helpful, now we have all the domains related to the ad company and name.
 
 * Domain: [Tracker Radar Wiki](https://slayterdev.github.io/tracker-radar-wiki/)
