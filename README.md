@@ -880,13 +880,11 @@ subdomains:
 ```
 * form: [contact form](https://www.samsung.com/us/business/samsungads/contact-us/)
 
-```
 # Viantinc ads
 ```bash
 1. adelphic.com
 2. ipredictive.com
 3. viantinc.com
 ```
-
+contact:
 * form: [contact form](https://www.viantinc.com/contact/)
-* email: contact@smartadserver.com
