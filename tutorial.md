@@ -29,8 +29,8 @@ Ghostery is an extension that can be installed on most chromium-based browsers (
 
 As you can see in the screenshot of the extension, it detected 2 domains that are from 2 different ad providers, the first is from Traffic Stars and the second is from Exoclick. 
 
-Extension: [Ghostery Chrome](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij/related)
+* Extension: [Ghostery Chrome](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij/related)
 
-Extension 2: [Ghostery Firefox](https://addons.mozilla.org/en-US/firefox/addon/ghostery/)
+* Extension 2: [Ghostery Firefox](https://addons.mozilla.org/en-US/firefox/addon/ghostery/)
 
 With this extension it will be easier to locate the ad providers, just by adding this to chrome, brave, edge or firefox they can locate the domains of the ad providers and even with this extension in some cases they can locate the name of the advertising company.
