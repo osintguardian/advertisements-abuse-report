@@ -10,6 +10,58 @@ This repository will also be useful to search for domains related to adverts pro
 
 After watching the tutorial, if you want to recognize which ad provider owns the domain you have, just search this page for the domain. in the browser just by selecting CTRL + F you can search for  domains.
 
+## List of companies that are ad providers:
+This is a complete list of the ad providers that are in this article, for all those who want to know which are the companies that distribute ads that are on this list, read the names and click that will direct you to the domains owned by the advertisement company.
+
+##### Company List:
+* [Exoclick](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#exoclick)
+* [Trafficstars](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#trafficstars-company)
+* [Popads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#popads-company)
+* [Juicyads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#juicyads-company)
+* [Adnium](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adnium)
+* [eroadvertising](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#eroadvertising-company)
+* [trafficjunky](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#trafficjunky)
+* [Adextrem](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adextrem)
+* [Adscore](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adscore-technologies-dmcc)
+* [Traffichaus](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#traffichaus)
+* [Popcash](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#popcash)
+* [Adsterra](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adsterra)
+* [Clickadu](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#clickadu)
+* [Adsupply](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adsupply)
+* [Rivertraffic](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#rivertraffic)
+* [Clickdaly](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#clickdaly)
+* [SMAC-AD](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#smac-ad-company)
+* [Adspyglass](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adspyglass)
+* [A-Ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#a-ads)
+* [Twinred](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#twinred)
+* [33across](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#33across)
+* [Bullionyield](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#bullionyield)
+* [Adxserve](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adxserve)
+* [Adsexo](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adsexo)
+* [Sovrn](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#sovrn)
+* [Trafficfactory](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#trafficfactory)
+* [Plugrush](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#plugrush)
+* [Adforcast](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adforcast)
+* [Acuityads / illumin](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#acuityads--illumin)
+* [Aaxmedia](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#aaxmedia-acceptable-ads-exchange)
+* [Adform](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adform)
+* [adition ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adition)
+* [Adobe ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adobe-ads)
+* [Adswizz](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adswizz)
+* [adtelligent](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adtelligent)
+* [Adtheorent](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adtheorent)
+* [aniview](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#aniview)
+* [Oracle Advertising](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#oracle-advertising)
+* [Aqfer ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#aqfer)
+* [Facebook ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#meta-ads--facebook-ads)
+* [Samsung ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#samsung-ads)
+* [Viantinc Ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#viantinc-ads)
+
+
+
+
+
+
 ## Exoclick
 Websites that use Exoclick monetization service use the following URLs and scripts on their websites, which means that seeing this is a way of verifying that a website uses Exoclick service.
 
@@ -46,7 +98,7 @@ In a few cases, you can find information about verification codes related to the
 * abuse contact: help@exoclick.com
 * website: [ExoClick website](exoclick.com)
 
-# TrafficStars Company:
+# TrafficStars:
 
 TrafficStar ad company is used on some porn websites, this ad company suspends services to clients who have websites related to child abuse.
 
