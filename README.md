@@ -71,6 +71,7 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Advcash](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#advcash)
 * [Adsmate](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adsmate)
 * [CrakRevenue](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#crakrevenue)
+* [Slimspots](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#slimspots)
 
 
 
@@ -162,6 +163,7 @@ Domains lists:
 2. js.juicyads.com
 3. ads.juicyads.com
 4. clickpapa.com
+5. star-advertising.com
 ```
 ![logo](https://i.postimg.cc/XXSMJ2h0/image.png)
 
@@ -964,4 +966,13 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 * email: support@www.www.crakrevenue.com
 * Terms: [Terms of service](https://www.crakrevenue.com/tos/)
 * form: [contact form](https://support.crakrevenue.com/support/)
+
+# Slimspots
+```bash
+1. slimspots.com
+2. 123fastcdn.com
+```
+* email: info@slimspots.com
+* form: [contact form](https://slimspots.com/contact)
+* Terms: [Terms of service](https://slimspots.com/tos)
 
