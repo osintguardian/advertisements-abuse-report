@@ -44,6 +44,7 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Adforcast](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adforcast)
 * [Acuityads / illumin](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#acuityads--illumin)
 * [Aaxmedia](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#aaxmedia-acceptable-ads-exchange)
+* [AdColony / digitalturbine](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adcolony--digitalturbine)
 * [Adform](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adform)
 * [adition ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adition)
 * [Adobe ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adobe-ads)
