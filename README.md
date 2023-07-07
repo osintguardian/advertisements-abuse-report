@@ -62,7 +62,13 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Redirect ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#redirect-ads)
 * [Adcash Ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adcash-ads)
 * [Propellerads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#propellerads)
-* [Trafficforce](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#trafficforce)
+* [Hilltopads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#hilltopads)
+* [Adamoads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adamoads)
+* [Trafficshop](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#trafficshop)
+* [Zeropark](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#zeropark)
+* [Adxxx](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adxxx)
+* [Exoticads (chaturbate)](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#Exoticads-(chaturbate))
+* [Advcash](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#advcash)
 
 
 
@@ -851,3 +857,88 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 ```
 * email: legal@trafficforce.com
 * Terms: [Terms of service](https://www.trafficforce.com/terms.html)
+
+# Hilltopads
+```bash
+1. hilltopads.com
+2. hiltopads.com
+```
+* email: support@hilltopads.com and admin@hilltopads.com
+* Terms: [Terms of service](https://hilltopads.com/page/legal#termsofuse)
+
+# Adamoads
+```bash
+1. adamoads.com
+```
+* email: info@adamoads.com
+* Terms: [Terms of service](https://www.adamoads.com/terms/)
+* Contact form: [contact form](https://www.adamoads.com/contact/)
+
+# Trafficshop
+
+```bash
+1. trafficshop.com
+```
+* email: support@trafficshop.com
+* contact: [inforamtion](https://www.trafficshop.com/contacts)
+* Terms: [Terms of service](https://www.trafficshop.com/terms)
+
+# Zeropark
+
+```bash
+1. aristokles-ker.com
+2. joinzeropark.com
+3. pinchas-tap.com
+4. zeropark.com
+```
+* email: support@zeropark.com
+* form: [contact form](https://zeropark.com/about-us/)
+* Terms: [Terms of service](https://zeropark.com/publisher-terms-and-conditions/)
+
+# Adxxx
+
+```bash
+1. adxxx.com
+```
+* email: adxxx@adxxx.com and support@adxxx.com
+* Terms: [Terms of service](https://en.adxxx.com/tc)
+
+# Exoticads (chaturbate)
+```bash
+1. exoticads.com
+2. support.exoticads.com
+```
+* email: support@exoticads.com
+* Terms: [Terms of service](https://web.archive.org/web/20210302135530/exoticads.com/terms/)
+* form: [contact form](https://support.exoticads.com/hc/en-us/requests/new)
+
+# Advcash
+
+```bash
+1. advcash.com
+2. walletadvcash.com
+3. wwwadvcash.com
+4. advcash.com.ua
+5. kec4.com
+6. cash4u2.de
+7. advcash.de
+8. xn--80ay.com
+9. xn--80affa3aja3an.com
+10. xn--d1ad3a.com
+11. xn--90ahmf7anc.com
+12. xn--80auu.com
+13. xn--p1acd.com
+14. xn--d1awi.com
+15. bastvet.ru
+16. advcash.it
+17. gratiswissen.de
+18. advcsh.com
+19. 17minuten.de
+20. advcash.gi
+21. advcah.com
+22. 27minuten.de
+23. advcas.com
+```
+* email: support@advcash.com
+* Terms: [Terms of service](https://advcash.com/en/agreement)
+
