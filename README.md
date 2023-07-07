@@ -67,7 +67,7 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Trafficshop](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#trafficshop)
 * [Zeropark](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#zeropark)
 * [Adxxx](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adxxx)
-* [Exoticads (chaturbate)](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#Exoticads-(chaturbate))
+* [Exoticads (chaturbate)](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#exoticads-chaturbate)
 * [Advcash](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#advcash)
 
 
