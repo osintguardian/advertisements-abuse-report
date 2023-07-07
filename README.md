@@ -69,6 +69,7 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Adxxx](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adxxx)
 * [Exoticads (chaturbate)](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#exoticads-chaturbate)
 * [Advcash](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#advcash)
+* [Adsmate](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adsmate)
 
 
 
@@ -942,3 +943,12 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 * email: support@advcash.com
 * Terms: [Terms of service](https://advcash.com/en/agreement)
 
+# Adsmate
+```bash
+1. adsmatemedia.com
+2. ad.adsmatte.com
+3. youradexchange.com
+```
+* email: hello@adsmatemedia.com
+* Terms: [Terms of service](https://adsmatemedia.com/policies/terms-of-service)
+* form: [contact form](https://adsmatemedia.com/pages/contact-us)
