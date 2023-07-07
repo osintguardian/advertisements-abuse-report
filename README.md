@@ -70,6 +70,7 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Exoticads (chaturbate)](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#exoticads-chaturbate)
 * [Advcash](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#advcash)
 * [Adsmate](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adsmate)
+* [CrakRevenue](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#crakrevenue)
 
 
 
@@ -952,3 +953,15 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 * email: hello@adsmatemedia.com
 * Terms: [Terms of service](https://adsmatemedia.com/policies/terms-of-service)
 * form: [contact form](https://adsmatemedia.com/pages/contact-us)
+
+# CrakRevenue
+```bash
+1. crakrevenue.com
+2. t.grtyv.com
+3. t.hrtya.com
+4. cbmiocw.com
+```
+* email: support@www.www.crakrevenue.com
+* Terms: [Terms of service](https://www.crakrevenue.com/tos/)
+* form: [contact form](https://support.crakrevenue.com/support/)
+
