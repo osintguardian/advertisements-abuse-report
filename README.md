@@ -57,6 +57,12 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Facebook ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#meta-ads--facebook-ads)
 * [Samsung ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#samsung-ads)
 * [Viantinc Ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#viantinc-ads)
+* [TrafficHunt Ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#trafficHunt-ads)
+* [Etology LTD](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#etology)
+* [Redirect ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#redirect-ads)
+* [Adcash Ads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adcash-ads)
+* [Propellerads](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#propellerads)
+* [Trafficforce](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#trafficforce)
 
 
 
@@ -767,3 +773,81 @@ subdomains:
 ```
 contact:
 * form: [contact form](https://www.viantinc.com/contact/)
+
+# TrafficHunt Ads
+```bash
+1. traffichunt.com
+```
+Subdomains:
+```bash
+1. ads.traffichunt.com
+```
+* form: [contact form](https://traffichunt.com/#contacts)
+* email: info@traffichunt.com
+* terms: [Terms of service](https://traffichunt.com/publishers)
+
+# Etology
+```bash
+1. etology.com
+2. etologyltd.com
+```
+EtoLogy shares IPv4 addresses with other domains but they are not verified to be owned by this company. but it is verified that these domains with the same ipv4 are distributing ads on adult websites.
+
+SEREBRO Inc Domains:
+```bash
+1. instraffic.com
+2. traffic.xxx
+3. talktraffic.com
+4. adsmart.com
+```
+all domains using the same ipv4 as Etology appear to be owned by california-based SEREBRO, INC. SEREBRO, INC is the official owner of Etology LTD.
+
+* Contact form: [contact form](https://www.etology.com/contact)
+* email: abuse@etology.com
+* Terms: [Terms of service](https://www.etology.com/terms-of-service-agreement)
+
+# Redirect ads
+
+```bash
+1. redirect.com
+2. nativeadmatch.com
+3. eezzyyconsultancy.com
+```
+* email: info@redirect.com
+* Contact form: [contact form](https://redirect.com/contact)
+* Terms: [Terms of service](https://redirect.com/terms)
+
+# Adcash Ads
+```bash
+1. adcash.com
+2. myadcash.com
+3. adcash.de
+4. adcash.pl
+5. adcash.pm
+6. adcash.lv
+7. adcash.fr
+8. adcash.lt
+9. adcash.cx
+10. adcash.re
+11. adcsash.com
+12. adcash.co.uk
+```
+* email: contact@adcash.com
+* Contact form: [contact form](https://adcash.com/contact/)
+* Terms: [Terms of service](https://adcash.com/legal/)
+
+# Propellerads
+```bash
+1. propellerads.com
+2. propadsviews.com
+3. mediaxx.net
+```
+* email: contact.us@propellerads.com
+* Terms: [Terms of service](https://propellerads.com/terms-conditions/)
+
+# Trafficforce
+```bash
+1. trafficforce.com
+```
+* email: legal@trafficforce.com
+* Terms: [Terms of service](https://www.trafficforce.com/terms.html)
