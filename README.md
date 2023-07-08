@@ -72,6 +72,9 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Adsmate](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adsmate)
 * [CrakRevenue](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#crakrevenue)
 * [Slimspots](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#slimspots)
+* [Cpx24](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#cpx24)
+* [Peerclick](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#peerclick)
+* [Shareasale](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#shareasale)
 
 
 
@@ -975,4 +978,46 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 * email: info@slimspots.com
 * form: [contact form](https://slimspots.com/contact)
 * Terms: [Terms of service](https://slimspots.com/tos)
+
+# Cpx24
+```bash
+1. cpx24.com
+2. cpx24.net
+3. cdn1.adcdnx.com
+4. cpxtri.com
+5. deliv12.com
+6. wxhiojortldjyegtkx.bid
+```
+* email: bizdev@cpx24.com
+* form: [contact form](https://cpx24.net/contact)
+
+# Peerclick
+```bash
+1. peerclicktrk.com
+2. peerclick.com
+3. pstb.gopeerclick.com
+4. jediads.com
+5. peerclick.ru
+6. shaman.by
+7. beclick.net
+8. trck.site
+9. crazberi.com
+10. youselfi.com
+11. adsset.club
+12. dattds.com
+```
+* email: support@peerclick.com
+* Terms: [Terms](https://peerclick.com/terms)
+
+# Shareasale
+```bash
+1. shareasale.com
+2. shareasale-analytics.com
+3. buildamobileappforfree.com
+4. vapordns.com
+5. masterclqss.com
+```
+* email: shareasale@shareasale.com
+* form: [contact form](https://www.shareasale.com/info/contact-form/)
+* Terms: [Terms](https://s3.amazonaws.com/docs.awin.com/Legal/SaS_US+terms_2020.pdf)
 
