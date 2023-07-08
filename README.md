@@ -280,6 +280,8 @@ Adscore is a website advertising company operating in United Arab Emirates, Duba
 25. mjjjhfgqqpt.com
 26. vrfupfyu.com
 27. svtlgjmqyzmwz.com
+28. fmxemwxkuefncv.com
+29. tjgpeswdkrym.com
 ```
 This ad company has many domains and subdomains related to their ads, these are 14 collected domains that are owned by this ad company and are used by Adscore to distribute ads on the websites that use their ad services
 
