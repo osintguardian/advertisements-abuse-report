@@ -76,6 +76,7 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Peerclick](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#peerclick)
 * [Shareasale](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#shareasale)
 * [Tubecorporate](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#tubecorporate)
+* [Clickaine](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#clickaine)
 
 
 
@@ -1033,3 +1034,14 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 * email: support@tubecorporate.com
 * form: [contact form](https://tubecorporate.com/home/contacts)
 * Terms: [Terms](https://tubecorporate.com/terms-and-conditions)
+
+# Clickaine
+```bash
+1. clickaine.com
+2. clicaine.com
+3. clikaine.com
+4. clkcdn.com
+```
+* email: support@clickaine.com
+* Terms: [Terms](https://clickaine.com/terms)
+
