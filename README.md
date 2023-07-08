@@ -75,8 +75,7 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Cpx24](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#cpx24)
 * [Peerclick](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#peerclick)
 * [Shareasale](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#shareasale)
-
-
+* [Tubecorporate](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#tubecorporate)
 
 
 
@@ -1026,3 +1025,11 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 * form: [contact form](https://www.shareasale.com/info/contact-form/)
 * Terms: [Terms](https://s3.amazonaws.com/docs.awin.com/Legal/SaS_US+terms_2020.pdf)
 
+# Tubecorporate
+```bash
+1. tubecorporate.com
+2. sexnetwork.org
+```
+* email: support@tubecorporate.com
+* form: [contact form](https://tubecorporate.com/home/contacts)
+* Terms: [Terms](https://tubecorporate.com/terms-and-conditions)
