@@ -77,6 +77,7 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Shareasale](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#shareasale)
 * [Tubecorporate](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#tubecorporate)
 * [Clickaine](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#clickaine)
+* [Evadav](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#evadav)
 
 
 
@@ -1045,3 +1046,16 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 * email: support@clickaine.com
 * Terms: [Terms](https://clickaine.com/terms)
 
+# Evadav
+```bash
+1. evadav.com
+2. refadav.com
+3. evadav.world
+4. evadav.cc
+5. evadavapi.com
+6. evadav.io
+```
+* email: support@evadav.com
+* form: [contact form](https://evadav.com/contact-us#content)
+* Terms: [Terms](https://evadav.com/terms-of-use)
+* skype: live:evadavhelp
