@@ -1101,7 +1101,7 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 2. kadam.ru
 ```
 * email: support@kadam.net
-* Terms: [Terms and conditions](kadam.net/en/terms-service)
+* Terms: [Terms and conditions](https://kadam.net/en/terms-service)
 
 # Mybid
 ```bash
