@@ -571,6 +571,12 @@ Adspyglass is a company based in the united states based on advertising and offe
 4. plugrush.services
 5. plugrush.life
 6. d.plugrush.com
+7. prwidgets.com
+8. ftte.xyz
+9. prpops.com
+10. prscripts.com
+11. prstatics.com
+12. ftte.fun
 ```
 subdomains:
 ```bash
