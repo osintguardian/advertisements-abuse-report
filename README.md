@@ -82,6 +82,7 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Pollux Network LLC](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#pollux-network-llc)
 * [PushHouse](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#pushHouse)
 * [Kadam](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#kadam-ads)
+* [Mybid](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#mybid)
 
 
 
@@ -1101,3 +1102,13 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 ```
 * email: support@kadam.net
 * Terms: [Terms and conditions](kadam.net/en/terms-service)
+
+# Mybid
+```bash
+1. mybid.io
+2. mybidtraffic.com
+3. joinmybid.com
+4. mybidio.com
+```
+* email: support@mybid.io
+* Terms: [Terms and conditions](https://mybid.io/terms_en.html)
