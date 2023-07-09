@@ -79,6 +79,7 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Clickaine](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#clickaine)
 * [Evadav](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#evadav)
 * [Fpctraffic](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#fpctraffic)
+* [Pollux Network LLC](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#pollux-network-llc)
 
 
 
@@ -1070,3 +1071,13 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 ```
 * email: admin@fpctraffic.com
 
+# Pollux Network LLC
+```bash
+1. polluxnetwork.com
+2. cdn-assetsx.pnperf.com
+3. pnperf.com
+4. adn.polluxnetwork.com
+```
+* email: info@polluxnetwork.com
+* form: [contact form](http://www.polluxnetwork.com/frontoffice/contact)
+* Terms: [Terms](http://www.polluxnetwork.com/assets/admin/docs/TERMS_CONDITIONS_POLLUX_NETWORK_LLC.pdf)
