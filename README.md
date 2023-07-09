@@ -1091,4 +1091,5 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 ```
 * email: push.house.partner@push.House
 * skype: push.house.partner
-* Terms: [Terms](https://push.house/pages/rules)
+* Terms: [Terms and conditions](https://push.house/pages/rules)
+
