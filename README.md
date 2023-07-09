@@ -81,6 +81,7 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Fpctraffic](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#fpctraffic)
 * [Pollux Network LLC](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#pollux-network-llc)
 * [PushHouse](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#pushHouse)
+* [Kadam](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#kadam-ads)
 
 
 
@@ -1093,3 +1094,10 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 * skype: push.house.partner
 * Terms: [Terms and conditions](https://push.house/pages/rules)
 
+# Kadam ads
+```bash
+1. kadam.net
+2. kadam.ru
+```
+* email: support@kadam.net
+* Terms: [Terms and conditions](kadam.net/en/terms-service)
