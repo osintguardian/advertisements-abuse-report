@@ -1059,3 +1059,13 @@ all domains using the same ipv4 as Etology appear to be owned by california-base
 * form: [contact form](https://evadav.com/contact-us#content)
 * Terms: [Terms](https://evadav.com/terms-of-use)
 * skype: live:evadavhelp
+
+# Fpctraffic
+```bash
+1. fpctraffic.com
+2. fpctraffic2.com
+3. fpcclicks.com
+4. buyfpctraffic.com
+```
+* email: admin@fpctraffic.com
+
