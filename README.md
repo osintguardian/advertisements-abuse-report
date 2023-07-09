@@ -78,6 +78,7 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Tubecorporate](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#tubecorporate)
 * [Clickaine](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#clickaine)
 * [Evadav](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#evadav)
+* [Fpctraffic](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#fpctraffic)
 
 
 
