@@ -40,6 +40,7 @@ This is a complete list of the ad providers that are in this article, for all th
 * [Adsexo](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adsexo)
 * [Sovrn](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#sovrn)
 * [Trafficfactory](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#trafficfactory)
+* [Clickadilla](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#clickadilla)
 * [Plugrush](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#plugrush)
 * [Adforcast](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#adforcast)
 * [Acuityads / illumin](https://github.com/claudia0x0/advertisements-abuse-report/blob/main/README.md#acuityads--illumin)
@@ -557,6 +558,31 @@ Adspyglass is a company based in the united states based on advertising and offe
 4. smclouisvlle.org
 5. heonespy.com
 6. js.wpadmngr.com
+7. pwmctl.com
+8. ptlwm.com
+10. awpcrpu.com
+11. pctlwm.com
+12. awcrpu.com
+13. aweproto.com
+14. aweprt.com
+15. ptosrd.com
+16. awecre.com
+17. awempt.com
+18. jsmpus.com
+19. protawe.com
+20. ptosrd.com
+21. protoawe.com
+22. cdctwm.com
+23. jsmpsi.com
+24. prtawe.com
+25. wmpuem.com
+26. potwm.com
+27. awptlpu.com
+28. ptwmemd.com
+29. awepsi.com
+30. livesexbar.com
+31. awprt.com
+32. awembd.com
 ```
 * contact email: support@clickadilla.com
 * form: [contact form](https://clickadilla.com/contacts)
