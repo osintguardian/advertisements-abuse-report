@@ -98,6 +98,7 @@ Websites that use Exoclick monetization service use the following URLs and scrip
 4. optnx.com
 5. exv6.com
 6. exosrv.com
+7. magsrv.com
 ```
 Subdomains:
 ```bash
